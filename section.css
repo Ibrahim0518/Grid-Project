@@ -4,10 +4,13 @@
     /* border: 1px solid blue; */
     grid-template-columns: repeat(12, 1fr);
     grid-template-rows: 4rem 19rem 4rem 17rem 4rem 4rem 4rem 4rem 1rem 17rem;
-    grid-gap: 10px;
+    grid-gap: 1rem;
     margin: 0 auto;
 }
-
+.pd_per_2
+{
+    padding-left:2%;
+}
 
 .Tranding {
     grid-column: 1 /span 12;
